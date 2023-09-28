@@ -12,6 +12,6 @@ async function fetchHTML(url) {
     }
   }
   
-  const url = 'C:\Users\faaareell\Downloads\Programs\Modul 1 P.web\my CV async\index.html';
+  const url = 'https://github.com/faaareelll/Tugas_web1/blob/main/my_CV_async/index.html';
   fetchHTML(url);
   
